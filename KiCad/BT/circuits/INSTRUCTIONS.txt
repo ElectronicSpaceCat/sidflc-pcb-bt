@@ -1,0 +1,2 @@
+Go to https://www.falstad.com/circuit/circuitjs.html
+File >> Open File.. >> select the circuit file to run
