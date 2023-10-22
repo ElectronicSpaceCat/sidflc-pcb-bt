@@ -5,7 +5,7 @@
     "auto_track_width": true,
     "hidden_netclasses": [],
     "hidden_nets": [],
-    "high_contrast_mode": 0,
+    "high_contrast_mode": 1,
     "net_color_mode": 1,
     "opacity": {
       "images": 0.6,
@@ -60,8 +60,8 @@
       39,
       40
     ],
-    "visible_layers": "ffc3eff_ffffffff",
-    "zone_display_mode": 1
+    "visible_layers": "ffc30ff_ffffffff",
+    "zone_display_mode": 0
   },
   "meta": {
     "filename": "BT.kicad_prl",
