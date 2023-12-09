@@ -6,7 +6,7 @@
 
   (title_block
     (title "SIDFLC")
-    (rev "V6.0")
+    (rev "V7.0")
     (comment 1 "Designed by Andrew Green")
   )
 
@@ -3305,7 +3305,7 @@
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid a90015fe-9fc1-4269-9800-7b12b695c98f)
   )
-  (text "NOTES:\n- Vout = (Vin*R15)/(R14+R15)\n- BM = 1.8V @ VBATT = 4.2V"
+  (text "NOTES:\n- Vout = (Vin*R15)/(R14+R15)\n- BM = VBATT @ 4.2V = 1.8V"
     (at 345.44 64.77 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid abc6d15f-707d-4ec5-8cca-79dd0f8084a0)
